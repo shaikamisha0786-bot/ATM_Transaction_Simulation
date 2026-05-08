@@ -1,0 +1,1 @@
+ATM Transaction Simulation is a Python-based console application that performs basic banking operations like deposit, withdrawal, and balance checking. It uses loops and conditional statements to simulate ATM functionality while validating transactions such as insufficient balance and invalid amounts
